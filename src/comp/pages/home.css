@@ -1,0 +1,12 @@
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    margin-left: 100px;
+    border-bottom: 10px solid black;
+    margin-top: -10px;
+  }
+  h3{
+      margin-left: 100px;
+  }

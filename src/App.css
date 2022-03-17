@@ -1,0 +1,28 @@
+nav{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #f2f2f3;
+  height: 100px;
+  grid-gap: 30px;
+  grid-column-end: auto;
+  width: 100%;
+}
+nav h2{
+  margin-left: 100px;
+
+}
+nav a{
+  padding-right: 50px;
+  color: gray;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+nav a:hover{
+  color:black;
+  transition: all 0.4s;
+
+}
